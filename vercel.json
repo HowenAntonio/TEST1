@@ -7,12 +7,12 @@
     },
     "routes": [
          {
-            "src": "/css/(.*)",
-            "dest": "/bootstrap-5.3.3-dist/css/$1"
+            "src": "/bootstrap-5.3.3-dist/css/(.*)",
+            "dest": "/public/bootstrap-5.3.3-dist/css/"
         },
         {
-            "src": "/js/(.*)",
-            "dest": "/bootstrap-5.3.3-dist/js/$1"
+            "src": "/bootstrap-5.3.3-dist/js/(.*)",
+            "dest": "/public/bootstrap-5.3.3-dist/js/"
         },
         {
             "src": "/images/(.*)",
