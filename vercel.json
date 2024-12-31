@@ -8,11 +8,11 @@
     "routes": [
          {
             "src": "/css/(.*)",
-            "dest": "/bootstrap-5.3.3-dist/css/"
+            "dest": "/bootstrap-5.3.3-dist/css/$1"
         },
         {
             "src": "/js/(.*)",
-            "dest": "/bootstrap-5.3.3-dist/js/"
+            "dest": "/bootstrap-5.3.3-dist/js/$1"
         },
         {
             "src": "/images/(.*)",
