@@ -13,7 +13,7 @@
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://mentalhelp.kelompok10.app/",
         "APP_KEY" : "base64:ic0PwxJpFs1eOimOnC6Yo2esFFNUh7QoLBV1K/7MW80=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
